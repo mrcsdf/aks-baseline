@@ -1,0 +1,20 @@
+{
+    "name": "AKS PNP Basic",
+    "dockerFile": "Dockerfile",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-vscode.azurecli",
+                "ms-dotnettools.vscode-dotnet-runtime",
+                "ms-azuretools.vscode-bicep",
+                "ms-kubernetes-tools.aks-devx-tools",
+                "ms-vscode.azure-account",
+                "ms-kubernetes-tools.vscode-aks-tools",
+                "ms-kubernetes-tools.vscode-kubernetes-tools",
+                "redhat.vscode-yaml",
+                "ms-vscode-remote.remote-wsl",
+                "ms-dotnettools.csharp"
+            ]
+        }
+    }
+}
